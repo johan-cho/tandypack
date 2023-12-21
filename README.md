@@ -6,6 +6,10 @@ This texturepack was a photoshop of other texturepacks that I've liked. I added 
 
 Since I made this several years ago, a lot of the creators might've gone uncredited, but I added the ones that I could remember.
 
+## installation
+
+download the latest release on thr right side of this screen or you could zip the source directly.
+
 - [GUI/HUD](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2091418-patrixs-minimal-gui-animated-menu-colors-updated)
 - [Technoblade's pack?](https://www.youtube.com/watch?v=5Z3XkzXZ4Yg)
 - [1.14 Items (Swords, Bows, Fishing Rod, etc.):](https://www.youtube.com/watch?v=mVCachZ8u5E)
